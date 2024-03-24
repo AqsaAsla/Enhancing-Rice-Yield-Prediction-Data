@@ -3,7 +3,6 @@
 Title: Enhancing Rice Yield Prediction: A Deep Fusion Model Integrating ResNet50-LSTM with Multi Source Data
 Files of this project are:
 1. Data Files
-      i. Downloaded Satellite Images
       i. Processed Environmental data. xls
       ii. Yield Labels.xls
          
