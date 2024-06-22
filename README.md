@@ -10,3 +10,4 @@ Files of this project are:
 
       iii. GEE Scripts to download Satellite images from GEE
        
+[![DOI](https://zenodo.org/badge/818550338.svg)](https://zenodo.org/doi/10.5281/zenodo.12245783)
